@@ -1,5 +1,6 @@
 #Importing modules
 import nextcord, os, ctypes, json, asyncio, hashlib, base64, requests
+import pyhints
 from nextcord import ButtonStyle
 from nextcord.ext import commands
 from nextcord.ui import Button, View
